@@ -33,6 +33,7 @@
                 radial-gradient(circle at 20% 20%, rgba(255, 215, 0, 0.05) 0%, transparent 40%),
                 radial-gradient(circle at 80% 80%, rgba(255, 215, 0, 0.05) 0%, transparent 40%);
             overflow-x: hidden;
+            padding: 80px 20px 20px;
         }
 
         .header {
@@ -42,12 +43,13 @@
             position: fixed;
             width: 100%;
             top: 0;
+            left: 0;
             z-index: 1000;
             border-bottom: 1px solid rgba(255, 215, 0, 0.1);
         }
 
         .header-content {
-            max-width: 1200px;
+            max-width: 1400px;
             margin: 0 auto;
             display: flex;
             justify-content: space-between;
