@@ -80,7 +80,7 @@
         }
 
         .gallery-container {
-            height: 700px;
+            height: 600px;
             margin: 100px auto 40px;
             padding: 20px;
             position: relative;
