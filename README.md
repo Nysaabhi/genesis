@@ -1,4 +1,3 @@
-# Genesis
 <html>
 <head>
     <title>Premium NFT Gallery</title>
