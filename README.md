@@ -97,7 +97,7 @@
 
         .artwork-card {
             min-width: 400px;
-            height: 600px;
+            height: 550px;
             background: var(--card-bg);
             border-radius: 20px;
             overflow: hidden;
