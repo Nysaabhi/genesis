@@ -80,7 +80,7 @@
         }
 
         .gallery-container {
-            height: 600px;
+            height: 700px;
             margin: 100px auto 40px;
             padding: 20px;
             position: relative;
@@ -97,7 +97,7 @@
 
         .artwork-card {
             min-width: 400px;
-            height: 520px;
+            height: 600px;
             background: var(--card-bg);
             border-radius: 20px;
             overflow: hidden;
